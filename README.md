@@ -21,4 +21,4 @@ O processo se dá através da utilização de uma placa de sensores na base do r
 
 ## Link de vídeo demonstração
 
-[Link para o video youtube](https://www.youtube.com)
+[Link para o video youtube](https://youtu.be/8SS7zKLVPKg)
