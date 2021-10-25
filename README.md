@@ -4,8 +4,11 @@
 
 **Nome e RM dos Alunos:**
     Guilherme dos Santos Araújo - RM: 85719
+    
     Luan Henrique Silva Neves – RM: 85181
+    
     Rodrigo de Almeida Barbosa – RM: 85137
+    
     William José Rangon de Lima – RM: 85970
 
 **Turma:** 2TDSA
